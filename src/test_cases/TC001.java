@@ -6,5 +6,8 @@ public class TC001 {
         System.out.println("Testing something");
         // more testing
 
+
+        //negative testing
+
     }
 }
